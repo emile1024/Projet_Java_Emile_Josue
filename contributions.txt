@@ -1,0 +1,17 @@
+Emile Nibasumba :
+- Implémentation de la classe Main (interface utilisateur)
+- Gestion du menu et des interactions clavier
+- Implémentation de la classe GestionEtudiants
+- Gestion de la liste des étudiants (ajout, suppression, recherche)
+- Tri des étudiants par moyenne
+- Gestion des fichiers CSV (lecture et écriture)
+- Gestion des exceptions et validation des entrées
+
+Josue Mulumba Mutanda :
+- Implémentation de la classe Etudiant
+- Gestion des attributs (nom, prénom, notes)
+- Calcul de la moyenne des notes
+- Vérification des étudiants incomplets
+- Implémentation de la classe NoteCours
+- Gestion des notes par cours
+- Contribution à l’affichage formaté des données
